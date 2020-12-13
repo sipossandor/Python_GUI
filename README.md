@@ -1,6 +1,5 @@
 * Button 3 Python programm.
-* First of all install Python virtual emviroment with PIP 
-* VirtualenvPIP
+* First of all install Python virtual emviroment with PIP VirtualenvPIP
 * python -m pip install --upgrade pip setuptools virtualenv
 
 
